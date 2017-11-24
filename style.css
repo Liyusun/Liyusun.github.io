@@ -1,0 +1,57 @@
+#titlebar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: antiquewhite ;
+z-index: 100;
+				}
+}
+	/* Top right text */
+	.top-right { 
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+#titlePic {
+	width: 100%
+	
+}
+
+#zi {
+	font-size: 30px;
+}	
+	
+main {
+    position: absolute;
+    top: 120px;
+}
+
+aside {
+    float: left;
+    width: 150px;
+    padding-right: 10px;
+    color: chocolate ;
+}
+#intro {
+	height: 300px
+}
+
+p {
+    text-indent: 25px;
+}
+				
+				.container {
+				position: relative;
+				text-align: center;
+				color: red;
+}
+				.top-right {
+                    position: absolute;
+                    top: 8px;
+                    right: 16px;
+					font-size: 50px;
+					text-shadow: 2px 2px 8px #FF0000;
+					
+	}
